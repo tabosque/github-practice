@@ -1,1 +1,1 @@
-# github-practice
+# This is GitHub practice branch.
